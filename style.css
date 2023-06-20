@@ -1,0 +1,24 @@
+body{
+	width: 500px;
+	background: #2F495A;
+	margin-left: 50px;
+}
+
+h2{
+	color: white;
+}
+
+.input{
+	width: 200px;
+	margin: 5px;
+	font-size: 16pt;
+	border-radius: 5px;
+}
+
+.button{
+	width: 200px;
+	margin: 5px;
+	font-size: 16pt;
+	border-radius: 5px;
+	background: #E06469;
+}
